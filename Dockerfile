@@ -1,4 +1,4 @@
-FROM studionone/nginx-php7:latest
+FROM  daocloud.io/wshudong/php7-nginx:latest
 
 MAINTAINER Greg Beaven <greg@studionone.com.au>
 
